@@ -18,8 +18,7 @@ Please use the `./sample.csv` file as input into your application.
 
 The app will default to running on localhost:4200.
 
-You need to have Angular installed on your computer to be able to run the app. If you don't have it installed, you can do so with the command ```npm install -g @angular/cli```
+To run the app, enter the command ```npm start``` in the terminal. 
 
-To run the app, enter the command ```ng serve``` in the terminal. 
-To run tests, enter ```ng test```.
+To run tests, enter the command ```npm test```.
 
